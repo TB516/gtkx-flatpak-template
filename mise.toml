@@ -1,5 +1,5 @@
 [tools]
-"github:TB516/flatpak-dev-cli" = "0.1.0"
+"github:TB516/flatpak-dev-cli" = "0.1"
 
 [tasks.build]
 description = "Build the GTKX app Flatpak bundle"
